@@ -4,7 +4,7 @@
 **Project Type:** Python-Based Scientific Application  
 **Domain:** Computational Chemistry | Cheminformatics | Scientific Visualization  
 **Technology:** Python, RDKit, Tkinter, Pillow, PubChem PUG REST API  
-**Project Level:** Academic Project / Hackathon Prototype
+**Project Level:** Academic Project / Hackathon Prototype 
 **Demo Link:** https://chemquest-virtualuniverse.netlify.app/
 
 ---
