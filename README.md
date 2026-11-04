@@ -2,6 +2,8 @@
 
 A native desktop rewrite of the supplied Cosmic MoleculeLab web project. The application is written in Python and uses Tkinter for its interface and RDKit for local cheminformatics. It does not use HTML, CSS, JavaScript, a browser, a CDN, or a JavaScript chemistry engine.
 
+# DEMO LINK : https://chemquest-virtualuniverse.netlify.app/
+
 ## Features
 - Native Python/Tkinter desktop interface with cosmic-themed tabs
 - 250-item searchable organic compound catalog
